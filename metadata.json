@@ -1,0 +1,6 @@
+{
+  "name": "TaskBD - Bangladesh Freelance & Microtask Marketplace",
+  "description": "TaskBD is a premier Bangladesh-focused task and service marketplace, freelance workspace, wallet escrow system, and Maya AI platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
